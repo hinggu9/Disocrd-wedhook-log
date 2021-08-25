@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Discordhook\Discordhook\bin\Debug\Discordhook.exe.config
+C:\Users\user\source\repos\Discordhook\Discordhook\bin\Debug\Discordhook.exe
+C:\Users\user\source\repos\Discordhook\Discordhook\bin\Debug\Discordhook.pdb
+C:\Users\user\source\repos\Discordhook\Discordhook\obj\Debug\Discordhook.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Discordhook\Discordhook\obj\Debug\Discordhook.Form1.resources
+C:\Users\user\source\repos\Discordhook\Discordhook\obj\Debug\Discordhook.Properties.Resources.resources
+C:\Users\user\source\repos\Discordhook\Discordhook\obj\Debug\Discordhook.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Discordhook\Discordhook\obj\Debug\Discordhook.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Discordhook\Discordhook\obj\Debug\Discordhook.exe
+C:\Users\user\source\repos\Discordhook\Discordhook\obj\Debug\Discordhook.pdb
